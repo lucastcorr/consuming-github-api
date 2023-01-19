@@ -11,3 +11,5 @@
 - Created routes /user, /user/photo and /user/repos;
 - Used .then() and .catch() structures to handle with /user and /user/photo routes;
 - Used Async Function to handle with /user/repos route.
+
+![Insomnia 2](https://user-images.githubusercontent.com/62185595/213572415-0bd83e5c-a360-4f37-a068-04e7f92a6878.png)
